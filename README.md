@@ -13,6 +13,5 @@ En primer lloc, cal donar permís a l'Script **checkconnection.sh**
 
 # Demo
 ```
-Hola!! 
-
+chmod u+x "**Nom_script**" 
 ```
