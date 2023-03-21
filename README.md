@@ -12,6 +12,6 @@
 En primer lloc, cal donar permís a l'Script **checkconnection.sh**
 
 # Demo
-```
+```netbeans
 # chmod u+x **Nom_script**
 ```
