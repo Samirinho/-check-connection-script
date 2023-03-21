@@ -9,5 +9,5 @@
 * Fitxer de l'Script
 
 # Utilització
-En primer lloc, cal donar permís a l'Script
+En primer lloc, cal donar permís a l'Script **checkconnection.sh**
 # Demo
